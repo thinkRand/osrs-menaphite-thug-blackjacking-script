@@ -206,6 +206,3 @@ blackjack.ahk
 - Menu option positions are hardcoded
 - Requires **visible inventory** (script detects inventory position automatically)
 - May need adjustment for different screen resolutions/scaling
-
-
-**⚠️ Final Warning**: Jagex actively detects and bans automation. This script is provided as-is with no guarantees. Using it may result in permanent account loss.
