@@ -3,7 +3,7 @@
 An AutoHotkey automation script for training Thieving via blackjacking Menaphite Thugs in Old School RuneScape (OSRS).
 
 > ⚠️ **Disclaimer**: Use at your own risk. This script violates OSRS rules (macroing/botting) and may result in a ban. This is for educational purposes only.
-<img src="example_position.jpg" width="100%" >
+<img src="example_position.png" width="100%" >
 
 ## What This Script Does
 
